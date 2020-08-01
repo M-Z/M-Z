@@ -17,7 +17,7 @@
 
 <img align="left" alt="Mario's Github Stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=M-Z&show_icons=true&hide_border=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Z&layout=compact)](https://www.linkedin.com/in/mario-medhat/#ember120)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Z&layout=compact)]([linkedin])
 
 
 <!-- variable declarations -->
