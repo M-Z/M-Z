@@ -1,4 +1,4 @@
-### `Hi there, I'm ***Mario***` <img alt="Mario" align="middle" width="50px" src="https://www.seekpng.com/png/detail/11-116036_svg-super-mario-3d-world-mario-icon.png" />
+## Hi there, I'm ***Mario*** <img alt="Mario" align="middle" width="50px" src="https://www.seekpng.com/png/detail/11-116036_svg-super-mario-3d-world-mario-icon.png" />
 
 <!--
 **M-Z/M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
