@@ -1,7 +1,8 @@
 ## <img alt="Mario" align="right" width="50px" src="https://github.com/M-Z/M-Z/blob/master/mario.png" />
 ## Hi there 👋 
 ------------------------------------
-<iframe src="https://cdpn.io/Mario-Zakaria/fullpage/YzwmYRg" ></iframe>
+
+<script src="https://github.com/M-Z/M-Z/blob/master/main.js"></script>
 
 <!--
 **M-Z/M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
