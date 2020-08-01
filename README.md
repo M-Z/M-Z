@@ -1,20 +1,23 @@
 ## <img alt="Mario" align="right" width="50px" src="https://github.com/M-Z/M-Z/blob/master/mario.png" />
-## Hi there 👋 
-------------------------------------
+## Hello 👋 
+---
 
-<script src="https://github.com/M-Z/M-Z/blob/master/main.js"></script>
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I like to draw 3D isometric shapes, play guitar, and game 🕹
 
-<!--
-**M-Z/M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="Mario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mario | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/upwork.svg" />][upwork]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<img align="left" alt="Mario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Z&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- variable declarations -->
+[linkedin]: https://www.linkedin.com/in/mario-medhat/
+[upwork]: https://www.upwork.com/freelancers/~01c475b9d430b56f9e
