@@ -10,6 +10,9 @@
 [<img align="left" alt="Mario | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mario | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/upwork.svg" />][upwork]
 
+<br />
+<br />
+
 ---
 
 <img align="left" alt="Mario's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Z&show_icons=true&hide_border=true&count_private=true" />
