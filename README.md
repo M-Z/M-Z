@@ -1,4 +1,4 @@
-## Hi there, I'm ***Mario*** <img alt="Mario" align="middle" width="50px" src="https://github.com/M-Z/M-Z/blob/master/mario.png" />
+## Hi there, I'm ***Mario***  👋 <img alt="Mario" align="right" width="50px" src="https://github.com/M-Z/M-Z/blob/master/mario.png" />
 
 <!--
 **M-Z/M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
