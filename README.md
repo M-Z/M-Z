@@ -1,4 +1,4 @@
-### Hi there, I'm Mario <img align="left" alt="Mario" width="22px" src="https://icon-library.com/images/mario-icon-png/mario-icon-png-22.jpg" />
+### Hi there, I'm Mario <img alt="Mario" align="bottom" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mario_emblem.svg/768px-Mario_emblem.svg.png" />
 
 <!--
 **M-Z/M-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
