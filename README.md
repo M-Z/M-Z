@@ -1,8 +1,8 @@
 ## <img alt="Mario" align="right" width="50px" src="https://github.com/M-Z/M-Z/blob/master/mario.png" />
 ## Hello 👋 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything 🤓
+- 👯 I’m looking to collaborate with other devs
 - ⚡ Fun fact: I like to draw 3D isometric shapes, play guitar, and game 🕹
 ---
 ### Connect with me:
